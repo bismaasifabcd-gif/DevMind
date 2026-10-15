@@ -184,27 +184,5 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- **Groq**: Ultra-fast LLM inference
-- **LangChain**: LLM orchestration framework
-- **FastAPI**: Modern Python web framework
-- **React**: Frontend framework
-- **MLflow**: Experiment tracking
-
-## 📞 Support
-
-- 📧 **Email**: support@devmind.ai
-- 💬 **Discord**: [DevMind Community](https://discord.gg/devmind)
-- 📚 **Documentation**: [docs.devmind.ai](https://docs.devmind.ai)
-- 🐛 **Issues**: [GitHub Issues](https://github.com/bismaasifabcd-gif/DevMind/issues)
-
----
-
-<div align="center">
-
-**Made with ❤️ by the DevMind Team**
-
-[Website](https://devmind.ai) • [Documentation](https://docs.devmind.ai) • [Community](https://discord.gg/devmind)
 
 </div>
